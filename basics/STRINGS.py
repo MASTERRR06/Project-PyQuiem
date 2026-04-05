@@ -1,0 +1,5 @@
+name = input ("Enter name :\n")
+###print(name.upper())
+###print(name.lower())
+###print(name.find("I"))
+###print(name.replace(name,"DIDDy"))
