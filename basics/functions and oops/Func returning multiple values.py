@@ -6,4 +6,4 @@ def circle(radius):
     return (area,circum)
 
 a,c=(circle(int(input("Enter radius:"))))
-print(a,c)
+print(f"area: {a:.2f} , Circumference: {c:.2f}")
